@@ -1,0 +1,23 @@
+﻿Github:
+The Github only contains a readme file because there is no actual code for this.  It is a tutorial on how to set up JSHint on a local machine.   
+
+Code:
+There is no actual code for this Exploration because it involves setting up a linter for JavaScript.  
+
+Journal:
+For my fourth exploration I decided to set up JSHint on my local machine because many companies use this to check JavaScript for errors.  JSHint is used by companies like Google, Facebook, Mozilla, Twitter, and many more.  Since I prefer to use Sublime Text 3 I followed tutorials for that editor specifically, but the process is very similar for any text editor that supports it.  In order to run JSHint you first need to have Node.js installed on your machine.  To run JSHint through Sublime you need to have Package Controller set up to install use JSHint.  JSHint makes coding in JavaScript a lot easier because it displays errors and suggestions in the gutter.  This makes finding errors a lot faster and easier.  
+
+Sources:
+
+How to install Node.js
+https://www.digitalocean.com/community/tutorials/how-to-install-node-js-on-ubuntu-16-04
+
+How to install JSHint
+http://jshint.com/install/
+
+How to install Package Control for Sublime
+https://packagecontrol.io/installation
+
+How to set up JSHint on Sublime
+https://github.com/uipoet/sublime-jshint
+
